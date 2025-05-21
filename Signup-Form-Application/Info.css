@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(243, 211, 173);
+    color: brown;
+    padding: 20px;
+    font-size: 22px;
+}
+
+input, textarea{
+    border-radius: 5px;
+    border: 1px solid brown;
+    font-size: 22px;
+    margin: 11px;
+}
+
+fieldset{
+    margin: 444px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 1px solid brown; 
+    padding: 11px;
+}
+
+fieldset legend, h1{
+    font-size:xx-large;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container input{
+    background-color: brown;
+    color: rgb(243, 211, 173);
+    font-weight: bold;
+    border-radius: 11px;
+    font-size: 22px;
+    margin-right: 33px;
+} 
